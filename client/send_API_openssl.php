@@ -1,5 +1,5 @@
 <?php 
-// $postData must be an array of data, you can use one parameter for the fct name of the API and some other for parameter :
+// $postData must be an array of data, you can use one parameter for the fct name of the API and some other for parameters :
 /* 
 $postData = array(
     'fct' => 'getTemp',              
