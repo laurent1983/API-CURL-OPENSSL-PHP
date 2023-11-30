@@ -1,6 +1,6 @@
 <?php 
 
-require_once('includes/send_API_openssl.php');
+require_once('send_API_openssl.php');
 
 $myData = array(
   'fct' => 'getTemp',              
