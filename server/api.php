@@ -1,5 +1,5 @@
 <?php 
-
+// DO not use this key, Generate one. This one is just to show an example
 $publicKey = "-----BEGIN PUBLIC KEY-----
 MFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEuRJWbO/3Bl8pfvxAxguDhUrJw9cx3N1z
 AHe7nsj+gyyKvE/B9G2cypUG0Kx5+YX2ZNEPiOal4F+jDdhh4SMA1g==
