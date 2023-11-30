@@ -1,5 +1,5 @@
 <?php 
-// $postData must be an array of data, you can use one parameter for the name of the API function and some other for parameter exemple :
+// $postData must be an array of data, you can use one parameter for the fct name of the API and some other for parameter :
 /* 
 $postData = array(
     'fct' => 'getTemp',              
@@ -8,7 +8,7 @@ $postData = array(
 */
 function send_DATA_API($postData) {
 
-// DO not use this key, Generate one. This one is just to show an exemple
+// DO not use this key, Generate one. This one is just to show an example
 $privateKey = "-----BEGIN EC PRIVATE KEY-----
 MHQCAQEEIBYEoEQVQnVPX5y9XNIbh+cxigdyh5BX8ksr2BqEExJ9oAcGBSuBBAAK
 oUQDQgAEuRJWbO/3Bl8pfvxAxguDhUrJw9cx3N1zAHe7nsj+gyyKvE/B9G2cypUG
